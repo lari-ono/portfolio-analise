@@ -8,7 +8,7 @@ Neste repositório você irá encontrar a análise de 2 (dois) projetos, sendo u
 
 ## Portfólio de Análise de Requisitos
 
-- Protótipo do Figma [PodcastApp]([https://www.google.com](https://www.figma.com/design/ECIzSfAWHcPJSi3HxkKdUr/PodcastAppChallenge?node-id=8-5945&node-type=canvas))
+- Protótipo do Figma [PodcastApp](https://www.figma.com/design/ECIzSfAWHcPJSi3HxkKdUr/PodcastAppChallenge?m=auto&t=WBSxPDFw8EJ0oCFy-1)
 ![Referência Protótipo](./img/site-saucedemo.png)
 
 ## Portfólio do Plano de Teste
