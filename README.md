@@ -15,4 +15,4 @@ Neste repositório você irá encontrar a análise de 2 (dois) projetos, sendo u
 ## Portfólio do Plano de Teste
 
 - Site utilizado para elaboração do Plano [Saucedemo](https://www.saucedemo.com/v1/)
-  ![Home Site Saucedemo](./img/site-saucedemo.png)
+  ![Home Site Saucedemo](saucedemo/img/site-saucedemo.png)
