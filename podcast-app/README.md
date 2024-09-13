@@ -3,6 +3,7 @@
 Este projeto foi criado com o propósito de praticar o **levantamento de requisito** do projeto. Foi levado em consideração analisar um projeto do tipo Figma retirado do site Uplabs, onde vários designers tem a possibilidade de subir os seus projetos. Com isso irei demonstrar a análise do projeto Podcast App: por meio do protótipo terá uma análise dos requisitos desejáveis para este projeto.
 
 ## Protótipo
+
 - Protótipo do Figma [PodcastApp]()
 
 ![Referência Protótipo]()
