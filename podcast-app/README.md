@@ -12,7 +12,7 @@ Este projeto foi criado com o propósito de praticar o **levantamento de requisi
 
 A imagem abaixo irá indicar como foi feita a análise deste projeto, na qual foi utilizado o **Figma** para fazer a análise de forma visual.
 
-![Referência da análise](podcast-app/img/requisito1.png)
+![Referência da análise](./img/requisito1.png)
 
 1. Indicação da imagem a ser analisada
 2. Indicação de qual requerimento iremos analisar, indicando seu número e nome
