@@ -21,15 +21,15 @@ Na aba Suite\_(nome do requisito) irá conter todas as informações necessária
 
 Entre eles:
 
-Objetivo do teste
-Tempo de execução
-Protótipo
-Pré-condição
-Dados necessário
-Critério de aceite
-Requisitos
-Casos de teste
-Prioridade
-Severidade
+- Objetivo do teste
+- Tempo de execução
+- Protótipo
+- Pré-condição
+- Dados necessário
+- Critério de aceite
+- Requisitos
+- Casos de teste
+- Prioridade
+- Severidade
 
-![Planilha do plano de teste](./img/saucedemo-plano.png)
+![Referência Suíte](./img/saucedemo-ca.png)
