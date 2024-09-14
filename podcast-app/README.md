@@ -4,13 +4,13 @@ Este projeto foi criado com o propósito de praticar o **levantamento de requisi
 
 ## Protótipo
 
-- Protótipo do Figma [PodcastApp]()
+- Protótipo do Figma [PodcastApp](https://www.figma.com/design/ECIzSfAWHcPJSi3HxkKdUr/PodcastAppChallenge?m=auto&t=WBSxPDFw8EJ0oCFy-1)
 
-![Referência Protótipo]()
+![Referência Protótipo](podcast-app/img/uplabs.png)
 
 ## Análise do Projeto
 
-A imagem abaixo irá indicar como foi feita a análise deste projeto, na qual foi utilizado o **MIRO** para fazer a análise de forma visual.
+A imagem abaixo irá indicar como foi feita a análise deste projeto, na qual foi utilizado o **Figma** para fazer a análise de forma visual.
 
 ![Referência da análise]()
 
