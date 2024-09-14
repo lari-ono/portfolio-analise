@@ -6,7 +6,7 @@ Este projeto foi criado com o propósito de práticar a criação e execução d
 
 - Site utilizado ara elaboração do Plano [Saucedemo](https://www.saucedemo.com/)
 
-![Tela inicial do site Saucedemo](saucedemo\img\saucedemo-interface.png)
+![Tela inicial do site Saucedemo](saucedemo/img/saucedemo-interface.png)
 
 - Excel para criação do Plano de Teste
 
@@ -14,7 +14,7 @@ Este projeto foi criado com o propósito de práticar a criação e execução d
 
 **Apresentação do Plano**
 Na aba Introdução da Planilha irá conter todas as informações bases do projeto.
-![Planilha do plano de teste](saucedemo\img\saucedemo-plano.png)
+![Planilha do plano de teste](saucedemo/img/saucedemo-plano.png)
 
 **Apresentando a Suite**
 Na aba Suite\_(nome do requisito) irá conter todas as informações necessárias para execução dos testes vinculadas a Suíte.
@@ -32,4 +32,4 @@ Casos de teste
 Prioridade
 Severidade
 
-![Planilha do plano de teste](saucedemo\img\saucedemo-plano.png)
+![Planilha do plano de teste](saucedemo/img/saucedemo-plano.png)
