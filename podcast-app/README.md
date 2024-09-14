@@ -6,7 +6,7 @@ Este projeto foi criado com o propósito de praticar o **levantamento de requisi
 
 - Protótipo do Figma [PodcastApp](https://www.figma.com/design/ECIzSfAWHcPJSi3HxkKdUr/PodcastAppChallenge?m=auto&t=WBSxPDFw8EJ0oCFy-1)
 
-![Referência Protótipo](podcast-app/img/uplabs.png)
+![Referência Protótipo](./img/uplabs.png)
 
 ## Análise do Projeto
 
